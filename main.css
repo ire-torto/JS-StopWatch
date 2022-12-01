@@ -1,0 +1,21 @@
+.counter-contener {
+    margin: 20px;
+}
+
+.counter-self {
+    width: 50%;
+    font-size: 50px;
+}
+.counter-self p{
+    text-align: center;
+}
+
+.counter-buttun {
+    display: flex;
+}
+.counter-buttun button{
+    margin:0 20px;
+    border: 3px solid black;
+    padding: 15px;
+    background-color: darkgray;
+}
